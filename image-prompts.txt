@@ -1,0 +1,95 @@
+ABC라이프케어 랜딩 페이지 이미지 생성 프롬프트
+==================================================
+
+[사용 방법]
+1. 아래 각 이미지의 "프롬프트" 블록을 그대로 복사해 이미지 생성 AI(Midjourney, DALL·E, Imagen, Firefly 등)에 붙여넣으세요.
+2. 생성한 이미지를 index.html과 같은 폴더의 images/ 폴더에 "저장 파일명"(JPG, 긴 변 1600px 이하)으로 저장하면 페이지에 자동으로 표시됩니다. 원본은 images/original/에 보관하세요.
+   (이미지가 없으면 파스텔 배경 + 아이콘이 대신 표시됩니다.)
+3. Midjourney는 프롬프트 끝의 --ar 옵션을 그대로 사용하고, 다른 도구는 --ar 부분을 지우고 비율을 따로 지정하세요.
+
+[공통 스타일 — 모든 이미지에 통일감을 주는 키워드]
+soft pastel color palette (powder blue #7fa7c9, mint, peach, lavender, butter yellow), minimal and clean, airy natural light, warm and calm mood, plenty of negative space, no text, no logo, no watermark
+
+
+--------------------------------------------------
+1. 히어로 메인 이미지
+저장 파일명: images/hero.jpg
+권장 비율: 4:3.4 (약 1200 x 1020px)
+--------------------------------------------------
+프롬프트:
+A warm, calm consultation scene in a bright minimal room: a friendly Korean counselor in her 40s talking with a middle-aged Korean couple at a light wooden table, gentle smiles, a cup of tea and a notebook on the table, large window with soft morning light, indoor plants, soft pastel color palette of powder blue, lavender and peach, clean editorial lifestyle photography, shallow depth of field, plenty of negative space, no text, no logo, no watermark --ar 20:17
+
+한글 프롬프트:
+밝고 미니멀한 상담실, 40대 한국인 여성 상담사가 중년 한국인 부부와 원목 테이블에 앉아 편안하게 대화하는 장면, 테이블 위 찻잔과 노트, 큰 창으로 들어오는 부드러운 아침 햇살, 실내 식물, 파우더 블루·라벤더·피치 파스텔 톤, 깔끔한 라이프스타일 화보 사진, 얕은 심도, 여백 많게, 텍스트·로고·워터마크 없음
+
+
+--------------------------------------------------
+2. 서비스 카드 — 건강
+저장 파일명: images/service-health.jpg
+권장 비율: 4:3 (약 800 x 600px)
+--------------------------------------------------
+프롬프트:
+Minimal 3D illustration of health and wellness: a soft heart shape with a stethoscope, a small green leaf, a water glass and a yoga mat, arranged on a pastel mint background, rounded clay-like shapes, soft shadows, gentle studio lighting, calm and clean composition, pastel mint and white palette, no text, no logo, no watermark --ar 4:3
+
+한글 프롬프트:
+건강과 웰빙을 표현한 미니멀 3D 일러스트, 부드러운 하트 모양과 청진기, 초록 잎사귀, 물컵, 요가 매트를 파스텔 민트 배경 위에 배치, 둥근 클레이 질감, 부드러운 그림자, 은은한 조명, 깔끔한 구도, 민트·화이트 파스텔 톤, 텍스트·로고·워터마크 없음
+
+
+--------------------------------------------------
+3. 서비스 카드 — 재무
+저장 파일명: images/service-finance.jpg
+권장 비율: 4:3 (약 800 x 600px)
+--------------------------------------------------
+프롬프트:
+Minimal 3D illustration of personal finance: a cute piggy bank, a small stack of coins, a simple rising bar chart and a calculator, arranged on a pastel peach background, rounded clay-like shapes, soft shadows, gentle studio lighting, calm and clean composition, pastel peach and cream palette, no text, no numbers, no logo, no watermark --ar 4:3
+
+한글 프롬프트:
+개인 재무를 표현한 미니멀 3D 일러스트, 귀여운 돼지저금통, 작은 동전 더미, 상승하는 막대그래프, 계산기를 파스텔 피치 배경 위에 배치, 둥근 클레이 질감, 부드러운 그림자, 은은한 조명, 깔끔한 구도, 피치·크림 파스텔 톤, 텍스트·숫자·로고·워터마크 없음
+
+
+--------------------------------------------------
+4. 서비스 카드 — 가족
+저장 파일명: images/service-family.jpg
+권장 비율: 4:3 (약 800 x 600px)
+--------------------------------------------------
+프롬프트:
+Minimal 3D illustration of family harmony: a small cozy house with three generations of simple rounded figures (grandparent, parents, child) holding hands, a soft heart floating above, arranged on a pastel lavender background, rounded clay-like shapes, soft shadows, gentle studio lighting, warm and calm composition, pastel lavender and pink palette, no text, no logo, no watermark --ar 4:3
+
+한글 프롬프트:
+가족의 화목을 표현한 미니멀 3D 일러스트, 아늑한 작은 집 앞에서 조부모·부모·아이 3대가 손을 잡고 있는 단순하고 둥근 캐릭터, 위에 떠 있는 부드러운 하트, 파스텔 라벤더 배경, 둥근 클레이 질감, 부드러운 그림자, 따뜻하고 차분한 구도, 라벤더·핑크 파스텔 톤, 텍스트·로고·워터마크 없음
+
+
+--------------------------------------------------
+5. 서비스 카드 — 은퇴
+저장 파일명: images/service-retire.jpg
+권장 비율: 4:3 (약 800 x 600px)
+--------------------------------------------------
+프롬프트:
+Minimal 3D illustration of a happy retirement: a comfortable rocking chair beside a small potted tree, a sun hat, a travel suitcase and a gentle sunrise in the background, arranged on a pastel butter-yellow background, rounded clay-like shapes, soft shadows, gentle warm lighting, peaceful and hopeful composition, pastel yellow and soft orange palette, no text, no logo, no watermark --ar 4:3
+
+한글 프롬프트:
+행복한 은퇴 생활을 표현한 미니멀 3D 일러스트, 편안한 흔들의자와 작은 화분 나무, 밀짚모자, 여행 가방, 뒤로 떠오르는 부드러운 해, 파스텔 버터옐로 배경, 둥근 클레이 질감, 부드러운 그림자, 따뜻한 조명, 평화롭고 희망찬 구도, 옐로·소프트 오렌지 파스텔 톤, 텍스트·로고·워터마크 없음
+
+
+--------------------------------------------------
+6. 진행 방식 섹션 배너 이미지
+저장 파일명: images/consult-room.jpg
+권장 비율: 16:10 (약 960 x 600px)
+--------------------------------------------------
+프롬프트:
+A cozy, minimal counseling corner: a light wooden desk with an open notebook, a pen, a ceramic cup of tea and a small vase of pastel flowers, a soft armchair nearby, sunlight through sheer curtains, soft pastel powder blue and lavender tones, clean interior lifestyle photography, calm and welcoming mood, plenty of negative space, no people, no text, no logo, no watermark --ar 16:10
+
+한글 프롬프트:
+아늑하고 미니멀한 상담 공간, 원목 책상 위에 펼쳐진 노트와 펜, 도자기 찻잔, 파스텔 꽃이 꽂힌 작은 화병, 옆의 부드러운 암체어, 얇은 커튼 사이로 들어오는 햇살, 파우더 블루·라벤더 파스텔 톤, 깔끔한 인테리어 라이프스타일 사진, 차분하고 환영하는 분위기, 여백 많게, 사람 없음, 텍스트·로고·워터마크 없음
+
+
+--------------------------------------------------
+[선택] 7. SNS 공유용 대표 이미지 (Open Graph)
+저장 파일명: images/og-image.png
+권장 비율: 1.91:1 (1200 x 630px)
+--------------------------------------------------
+프롬프트:
+Wide minimal banner illustration for a life-care counseling service: four soft rounded 3D icons in a row — a heart (health), a piggy bank (finance), a small house (family), a sunrise (retirement) — on a smooth gradient background from powder blue to lavender to peach, soft shadows, clean and calm, large empty space on the left for a headline, no text, no logo, no watermark --ar 191:100
+
+한글 프롬프트:
+라이프케어 상담 서비스용 가로형 미니멀 배너 일러스트, 하트(건강)·돼지저금통(재무)·작은 집(가족)·일출(은퇴)을 상징하는 둥근 3D 아이콘 4개를 한 줄로 배치, 파우더 블루에서 라벤더, 피치로 이어지는 부드러운 그라데이션 배경, 부드러운 그림자, 깔끔하고 차분한 분위기, 왼쪽에 제목을 넣을 넓은 여백, 텍스트·로고·워터마크 없음

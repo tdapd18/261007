@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ABC라이프케어 로고">
+  <!-- 네 장의 꽃잎: 건강(민트) · 재무(피치) · 가족(라벤더) · 은퇴(버터) -->
+  <g transform="translate(32 32)">
+    <ellipse cx="0" cy="-13" rx="10" ry="14" fill="#9fd8c0" transform="rotate(-45)" />
+    <ellipse cx="0" cy="-13" rx="10" ry="14" fill="#f7b99a" transform="rotate(45)" />
+    <ellipse cx="0" cy="-13" rx="10" ry="14" fill="#bfaee3" transform="rotate(135)" />
+    <ellipse cx="0" cy="-13" rx="10" ry="14" fill="#f3d77e" transform="rotate(225)" />
+    <circle r="8" fill="#7fa7c9" />
+    <circle r="3.2" fill="#ffffff" />
+  </g>
+</svg>
